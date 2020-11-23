@@ -10,3 +10,4 @@ const intervalid = setInterval(function (){
         letter.style.color = randomRGB();
     }
 }, 2000)
+console.log(letters);
